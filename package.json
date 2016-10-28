@@ -24,7 +24,7 @@
     "bluebird": "^2.9.34",
     "flags": "~0.1.2",
     "ip": "1.1.0",
-    "nicercast": "0.1.0",
+    "nicercast": "https://github.com/Adorkable-forkable/nicercast.git",
     "nodetunes": "git://github.com/Kolky/nodetunes.git#master",
     "sonos": "git://github.com/stephen/node-sonos.git#stephen-1.0.0"
   },
