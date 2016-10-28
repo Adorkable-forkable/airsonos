@@ -25,7 +25,7 @@
     "flags": "~0.1.2",
     "ip": "1.1.0",
     "nicercast": "https://github.com/Adorkable-forkable/nicercast.git",
-    "nodetunes": "git://github.com/Kolky/nodetunes.git#master",
+    "nodetunes": "git://github.com/Adorkable-forkable/nodetunes.git",
     "sonos": "git://github.com/stephen/node-sonos.git#stephen-1.0.0"
   },
   "license": "MIT",
